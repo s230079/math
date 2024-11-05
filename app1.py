@@ -4,7 +4,7 @@ import streamlit as st
 # 제목 쓰기
 st.title('동생아 수학공부하자')  
 # 부제목 쓰기
-st.subheader('오늘의 주제: _______')
+st.subheader('오늘의 주제: 남현건')
 # 본문 쓰기
 st.write('음수?? ______않아!') 
 
